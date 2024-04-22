@@ -5,3 +5,10 @@ install dependencies:
 
 run the app:
   $ DEBUG=restful-api-nlkybjqrtvym:* npm start
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
