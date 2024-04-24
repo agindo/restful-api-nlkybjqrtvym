@@ -1,4 +1,4 @@
-# First Restfull API with NodeJS ExpressJs Generator
+# First Restful API with NodeJS ExpressJs Generator
 
 install dependencies:
 ```
